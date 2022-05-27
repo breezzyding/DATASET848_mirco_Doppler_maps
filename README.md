@@ -7,7 +7,7 @@ six motions: walking, sitting down, standing up, picking up an object, drinking 
 and falling.
 
 # Dataset_848_test
-Conversion of raw radar data into micro-Doppler features maps.
+Conversion of raw radar data into micro-Doppler features maps.Due to the large size of the raw radar data, which is not conducive to uploading, a download address is provided as follows https://researchdata.gla.ac.uk/848/
 
 # Dataset_848_cutting
 The redundant information such as the axes of the micro-Doppler feature map is reduced for ease of use.
