@@ -13,7 +13,7 @@ Conversion of raw radar data into micro-Doppler features maps.Due to the large s
 The redundant information such as the axes of the micro-Doppler feature map is reduced for ease of use.
 Due to my research needs, I then resized all the cropped maps to 224 x 224
 
-# Dataset_848_224x224
+# Dataset_848_224_gray
 Updating grey scale images
 
 
